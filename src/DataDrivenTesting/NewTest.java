@@ -17,6 +17,7 @@ public void launchBrowser() {
 
   @Test 
   public void launch() {
-	  driver.get("https://google.com");
+	  driver.get("https://yahoo.com");
+	  
   }
 }
