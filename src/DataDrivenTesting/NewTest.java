@@ -16,6 +16,7 @@ public void launchBrowser() {
 }
 
   @Test 
-  public void f() {
+  public void launch() {
+	  driver.get("https://google.com");
   }
 }
